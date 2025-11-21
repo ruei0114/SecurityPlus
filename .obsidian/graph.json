@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:Cybersecurity  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Cybersecurity",
+      "color": {
+        "a": 1,
+        "rgb": 14240330
+      }
+    },
+    {
+      "query": "tag:#picoCTF  ",
+      "color": {
+        "a": 1,
+        "rgb": 10148204
+      }
+    },
+    {
+      "query": "tag:shell",
+      "color": {
+        "a": 1,
+        "rgb": 14265641
+      }
+    },
+    {
+      "query": "tag:network",
+      "color": {
+        "a": 1,
+        "rgb": 10521279
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.15190134249141,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.298595067124571,
+  "repelStrength": 10.2878551358102,
+  "linkStrength": 0.174648766781143,
+  "linkDistance": 332,
+  "scale": 0.4505081846770262,
+  "close": false
+}

@@ -1,0 +1,1 @@
+[C++超級菜鳥也可以懂的物件導向攻略 :: 2022 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20152702/ironman/5908)

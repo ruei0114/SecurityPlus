@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"320d51b8c54476e7","x":-320,"y":-200,"width":455,"height":129,"type":"text","text":"中線( midline ) : 垂直穿過身體中心的一條假想線\n近端( proximal ) : 朝向軀幹\n遠端( distal ) : 遠離軀幹"}
+	],
+	"edges":[]
+}

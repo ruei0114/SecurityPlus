@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"9ade61d3bdf6f91f","type":"text","text":"```cpp\n#include <unordered map>\n\n//初始化\nstd::unordered_map<std::string, int> umap = {  \n    {\"Tom\", 1},  \n    {\"Ann\", 4},  \n    {\"Jack\", 2}  \n};\n\n//插入\numap[\"John\"] = 3; //覆蓋原本資料\numap.insert(std::pair<std::string, int>(\"John\", 3)); //key存在則回傳失敗(bool)\n\n//是否存在\numap.count(\"Tom\");\n```\n","x":600,"y":-149,"width":876,"height":458},
+		{"id":"080af313682a17b5","type":"file","file":"C++/vector.md","x":1840,"y":-408,"width":520,"height":3528},
+		{"id":"faf9c06a26d8beb3","type":"text","text":"Math","x":143,"y":-1107,"width":117,"height":60,"color":"2"},
+		{"id":"573a39dd557c935c","type":"text","text":"# Pi\n```cpp\n#include<math.h>\ndouple pi_value = M_PI;\n```","x":-170,"y":-1560,"width":372,"height":186},
+		{"id":"95a53cb89f73f833","type":"text","text":"string","x":-41,"y":-840,"width":115,"height":60,"color":"2"},
+		{"id":"55c64ce399ee7da7","type":"text","text":"STL","x":502,"y":-900,"width":98,"height":60,"color":"2"},
+		{"id":"97e1aefef95365fc","type":"text","text":"Uva10162","x":-2960,"y":-1434,"width":250,"height":60,"color":"4"},
+		{"id":"45e84bfb8bf16e91","type":"file","file":"C++/string⇄int.md","x":-2160,"y":-900,"width":400,"height":1360},
+		{"id":"22c09cc2cf4980ac","type":"text","text":"\ns.length()","x":-1760,"y":-1280,"width":142,"height":60},
+		{"id":"93f6c3684e30ffd7","type":"file","file":"C++/cin getline cin.getline().md","x":-1618,"y":600,"width":540,"height":400}
+	],
+	"edges":[
+		{"id":"815f263e923b91ad","fromNode":"9ade61d3bdf6f91f","fromSide":"top","toNode":"55c64ce399ee7da7","toSide":"bottom"},
+		{"id":"7e94613faaff885f","fromNode":"93f6c3684e30ffd7","fromSide":"top","toNode":"95a53cb89f73f833","toSide":"bottom"},
+		{"id":"bab4dbc015b9b4ed","fromNode":"080af313682a17b5","fromSide":"top","toNode":"55c64ce399ee7da7","toSide":"right"},
+		{"id":"8fb072194b040c53","fromNode":"573a39dd557c935c","fromSide":"bottom","toNode":"faf9c06a26d8beb3","toSide":"top"},
+		{"id":"1d3d4b8ce0556958","fromNode":"45e84bfb8bf16e91","fromSide":"right","toNode":"95a53cb89f73f833","toSide":"left"},
+		{"id":"5d4387e532ffd0a1","fromNode":"22c09cc2cf4980ac","fromSide":"right","toNode":"95a53cb89f73f833","toSide":"left"}
+	]
+}

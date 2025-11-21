@@ -1,0 +1,1 @@
+![4.5 0/1 Knapsack - Two Methods - Dynamic Programming - YouTube](https://www.youtube.com/watch?v=nLmhmB6NzcM)

@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"661bee4fda5052f9","x":-400,"y":-280,"width":508,"height":317,"type":"group","label":"1"},
+		{"id":"839720b4dc1add2b","type":"file","file":"attachment/sinA+sinB.png","x":-380,"y":-260,"width":400,"height":277},
+		{"id":"228f4ec7371daf56","x":-20,"y":-260,"width":108,"height":60,"type":"text","text":"1-45"}
+	],
+	"edges":[]
+}

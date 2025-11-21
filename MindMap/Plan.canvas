@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"40fe9407c35d89b0","type":"file","file":"考研/Plan/LA1.md","x":-1860,"y":1227,"width":400,"height":3193},
+		{"id":"265ad6907ef739e3","type":"file","file":"考研/Plan/OS1.md","x":-1300,"y":1227,"width":300,"height":1597},
+		{"id":"b5088ba1c3e7ad67","x":-880,"y":1227,"width":400,"height":3193,"type":"file","file":"考研/Plan/DM.md"}
+	],
+	"edges":[]
+}
