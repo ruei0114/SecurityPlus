@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cybersecurity/tcpdump.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -239,6 +239,9 @@
   },
   "active": "1b13b7f23047459b",
   "lastOpenFiles": [
+    "sync_public.ps1",
+    "sync_public.txt",
+    "新增 文字文件.txt",
     "Cybersecurity/Linux command.md",
     "Cybersecurity/tcpdump.md",
     "Diary/2025-11-20.md",
@@ -275,7 +278,6 @@
     "Cybersecurity/HTB academy.md",
     "Cybersecurity/Steganography.md",
     "Cybersecurity/ROT13.md",
-    "Cybersecurity/Quick note.md",
     "Calisthenics/Calishenics.canvas",
     "MindMap/CA.canvas",
     "attachment/Pasted image 20250607134023.png",
@@ -291,8 +293,6 @@
     "Skill Tree/Calishenics.canvas",
     "Calisthenics/Components",
     "機械程設",
-    "軟工/HW6",
-    "生成式AI",
     "C++/CPE.canvas",
     "考研/NOTE/OS.canvas"
   ]
