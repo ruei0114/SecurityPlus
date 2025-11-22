@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Hashing.md",
+                "file": "Cybersecurity/Career.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hashing"
+              "title": "Career"
             }
           },
           {
@@ -269,9 +269,10 @@
   },
   "active": "4114fc2c8bf09a3d",
   "lastOpenFiles": [
+    "Cybersecurity/Hashing.md",
+    "Cybersecurity/Career.md",
     "ObsidianGitPublic.ps1",
     "新增 文字文件.txt",
-    "Cybersecurity/Hashing.md",
     "Cybersecurity/WHOIS, FTP, SMTP, POP3, IMAP PROTOCOL.md",
     "Cybersecurity/Linux command.md",
     "Cybersecurity/nmap.md",
@@ -322,7 +323,6 @@
     "Diary",
     "Skill Tree/Skill Tree.canvas",
     "Skill Tree/Calishenics.canvas",
-    "Calisthenics/Components",
     "C++/CPE.canvas",
     "考研/NOTE/OS.canvas"
   ]
