@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 10521279
       }
+    },
+    {
+      "query": "tag:#cryptography  ",
+      "color": {
+        "a": 1,
+        "rgb": 6273435
+      }
     }
   ],
   "collapse-display": false,
