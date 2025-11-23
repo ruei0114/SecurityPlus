@@ -23,13 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Career.md",
+                "file": "Security+/Security Controls - CompTIA Security+ SY0-701 - 1.1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Career"
+              "title": "Security Controls - CompTIA Security+ SY0-701 - 1.1"
             }
           },
           {
@@ -269,8 +269,10 @@
   },
   "active": "4114fc2c8bf09a3d",
   "lastOpenFiles": [
-    "Cybersecurity/Hashing.md",
     "Cybersecurity/Career.md",
+    "Security+/Security Controls - CompTIA Security+ SY0-701 - 1.1.md",
+    "Security+",
+    "Cybersecurity/Hashing.md",
     "ObsidianGitPublic.ps1",
     "新增 文字文件.txt",
     "Cybersecurity/WHOIS, FTP, SMTP, POP3, IMAP PROTOCOL.md",
@@ -311,7 +313,6 @@
     "attachment/Pasted image 20251118160929.png",
     "attachment/Pasted image 20251118160911.png",
     "attachment/Pasted image 20251117165004.png",
-    "Cybersecurity/OSI.md",
     "Calisthenics/Calishenics.canvas",
     "MindMap/CA.canvas",
     "templater",
@@ -320,7 +321,6 @@
     "data struct & algorithm/精選習題",
     "Daily",
     "天文物理",
-    "Diary",
     "Skill Tree/Skill Tree.canvas",
     "Skill Tree/Calishenics.canvas",
     "C++/CPE.canvas",
