@@ -18,21 +18,6 @@
             }
           },
           {
-            "id": "4114fc2c8bf09a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Career.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Career"
-            }
-          },
-          {
             "id": "9ad5b95f88d97911",
             "type": "leaf",
             "state": {
@@ -62,7 +47,8 @@
               "title": "Linux command"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -251,13 +237,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d098786562343005",
+  "active": "9ad5b95f88d97911",
   "lastOpenFiles": [
-    "20262.md",
     "Diary/2025-11-23.md",
+    "Cybersecurity/Career.md",
+    "Cybersecurity/Base64.md",
+    "20262.md",
     "Cybersecurity/Cryptography.md",
     "Security+/Security Controls - CompTIA Security+ SY0-701 - 1.1.md",
-    "Cybersecurity/Career.md",
     "Security+",
     "Cybersecurity/Hashing.md",
     "ObsidianGitPublic.ps1",
@@ -286,7 +273,6 @@
     "Cybersecurity/DHCP.md",
     "Cybersecurity/ARP.md",
     "Cybersecurity/NAT.md",
-    "Cybersecurity/Wireshark.md",
     "未命名.base",
     "未命名.canvas",
     "未命名 1.canvas",
