@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"9ae82630230c4d15","x":28,"y":-552,"width":372,"height":72,"color":"4","type":"text","text":"# Divide and Conquer"},
-		{"id":"6c97111cfc9e01b5","type":"file","file":"data struct & algorithm/Bellman-Ford Algorithm.md","x":-680,"y":-200,"width":400,"height":50},
-		{"id":"93c417b36e60c3cc","x":3060,"y":-540,"width":205,"height":67,"color":"4","type":"text","text":"# Graph"},
-		{"id":"d5ccbc42212309fd","x":1480,"y":-840,"width":412,"height":75,"color":"4","type":"text","text":"# Dynamic Programming"}
-	],
-	"edges":[]
-}

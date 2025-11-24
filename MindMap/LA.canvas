@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"925e6076f97e692d","type":"file","file":"attachment/ch1 invertible.png","x":-520,"y":-200,"width":400,"height":256},
-		{"id":"df57fb07e958e27b","type":"text","text":"$A=\\begin{bmatrix}\na & b \\\\\nc & d\n\\end{bmatrix}$\n$A^{-1}=\\frac{1}{\\det(A)}\n\\begin{bmatrix}\nd & -b \\\\\n-c & a\n\\end{bmatrix}\n$","x":74,"y":-222,"width":250,"height":122}
-	],
-	"edges":[]
-}

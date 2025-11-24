@@ -1,1 +1,0 @@
-[YC Note – 輕鬆談演算法的複雜度分界：什麼是P, NP, NP-Complete, NP-Hard問題 (ycc.idv.tw)](https://ycc.idv.tw/algorithm-complexity-theory.html)

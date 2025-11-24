@@ -1,1 +1,0 @@
-[Why a Spinning Donut is Pure Math | by Maarten De Baecke | Cantor’s Paradise (cantorsparadise.com)](https://www.cantorsparadise.com/why-a-spinning-donut-is-a-pure-math-e4dccc6294b0)
