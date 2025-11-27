@@ -5,3 +5,4 @@
 
 
 ![[Pasted image 20251124091056.png]]
+https://youtube.com/shorts/xzfT1z_ezwc?si=mth132a9hmypPC61
