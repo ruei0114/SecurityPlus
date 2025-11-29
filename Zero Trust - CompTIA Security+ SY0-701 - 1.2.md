@@ -56,8 +56,5 @@
 | **政策執行點 (PEP)** | **執行者：** 收集流量資訊，並將其傳送給策略管理員 [[08:13](http://www.youtube.com/watch?v=zC_Pndpg8-c&t=493)]。 |
 | **政策決策點 (PDP)** | **決策者：** 負責檢查身份驗證，並根據**預先定義的安全策略**做出允許、拒絕或撤銷的決定 [[08:21](http://www.youtube.com/watch?v=zC_Pndpg8-c&t=501)]。 |
 | **政策管理員 (PA)** | **溝通者：** 將 PDP 的決定傳達給 PEP，可能包括建立存取權杖或憑證 [[08:50](http://www.youtube.com/watch?v=zC_Pndpg8-c&t=530)]。 |
-
+![[Pasted image 20251129100745.png]]
 整個零信任模型流程為：主體從非信任區域發出請求 → 經由 **PEP** → **PA** → **PDP** 做出決定 → **PA** 將結果傳回 **PEP** → **PEP** 根據決定允許或拒絕存取信任區域的企業資源 [[09:14](http://www.youtube.com/watch?v=zC_Pndpg8-c&t=554)]。
-
-
-http://googleusercontent.com/youtube_content/4
